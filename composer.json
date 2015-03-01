@@ -1,0 +1,21 @@
+{
+  "name": "drupal/search_api",
+  "description": "Provides a generic framework for modules offering search capabilites.",
+  "type": "drupal-module",
+  "homepage": "https://www.drupal.org/project/search_api",
+  "authors": [
+    {
+      "name": "Thomas Seidl",
+      "homepage": "http://drunkenmonkey.at/",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/search_api",
+    "irc": "irc://irc.freenode.org/drupal-contribute",
+    "source": "http://git.drupal.org/project/search_api.git"
+  },
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": {}
+}
